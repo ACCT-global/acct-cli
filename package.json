@@ -1,7 +1,7 @@
 {
   "name": "acct",
   "description": "ACCT Toolbelt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Luiz Gustavo Freire Gama",
   "bin": {
     "acct": "./bin/run"
