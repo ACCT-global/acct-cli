@@ -15,7 +15,7 @@
 ## Usage
 
 ```bash
-$ npm install -g acct-cli
+$ npm install -g acct
 $ acct COMMAND
 running command...
 $ acct (-v|--version|version)
